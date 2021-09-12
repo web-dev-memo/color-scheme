@@ -41,7 +41,7 @@ lightness = <percentage>
 
 HSL: 
 ```
-    color-1 = hsl(160, 90%, 50%)
+    	color-1 = hsl(160, 90%, 50%)
 	color-2 = hsl(160, 30%, 45%)
 ```
 
@@ -58,6 +58,6 @@ RGB:
 Используемый материал:
 
 - https://habr.com/ru/post/496768/
-- https://drafts.csswg.org/css-color
+- https://drafts.csswg.org/css-color/#the-hsl-notation
 - http://image-and-style.ru/teoriya-tsveta/
 
